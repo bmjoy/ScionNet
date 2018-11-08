@@ -1,2 +1,3 @@
-# ScionNet
-Concurrent networking backend for the .NET platforms and Unity
+<p align="center"> 
+  <img height="68" width="380" src="https://i.imgur.com/nQOjeEL.png" alt="alt logo">
+</p>
